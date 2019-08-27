@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GroupDivider</string>
+    <string name="addName">名前を入力してください</string>
+    <string name="add">追加</string>
+    <string name="name">名前</string>
+    <string name="delete">削除</string>
+    <string name="name_hint">名前をここに入力してください</string>
+    <string name="devide">分ける</string>
+    <string name="group1">グループ１</string>
+    <string name="group2">グループ２</string>
+    <string name="edit">編集</string>
+    <string name="edit_name">名前の編集</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="title_activity_result_tab">ResultTabActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="group_num">グループ数</string>
+</resources>
